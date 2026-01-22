@@ -50,7 +50,7 @@ This platform helps users practice interviews by generating role-based and exper
 
 ---
 
-### Project Structure
+## 📂 Project Structure
 AI-Mock-Interview-System/
 │
 ├── backend/
@@ -99,6 +99,4 @@ AI-Mock-Interview-System/
 ├── package.json
 └── README.md
 
-
-## 📂 Project Structure
 
